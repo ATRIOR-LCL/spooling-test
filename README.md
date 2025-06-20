@@ -20,28 +20,28 @@
 
 ### 安装依赖
 ```bash
-pnpm install
+ppnpm install
 ```
 
 ### 运行测试
 
 #### 运行所有测试模式
 ```bash
-npm start
+pnpm start
 # 或
-npm run test:both
+pnpm run test:both
 ```
 
 #### 只运行模式1（固定数量任务）
 ```bash
-npm run test:fixed
+pnpm run test:fixed
 # 或
 node index.js 1
 ```
 
 #### 只运行模式2（规定时间任务）
 ```bash
-npm run test:time
+pnpm run test:time
 # 或
 node index.js 2
 ```

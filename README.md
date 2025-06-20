@@ -20,7 +20,7 @@
 
 ### 安装依赖
 ```bash
-ppnpm install
+pnpm install
 ```
 
 ### 运行测试

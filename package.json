@@ -1,4 +1,15 @@
 {
+	"type": "module",
+	"name": "spooling-test",
+	"version": "1.0.0",
+	"description": "打印任务批量测试工具",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"test:fixed": "node index.js fixed",
+		"test:time": "node index.js time",
+		"test:both": "node index.js both"
+	},
 	"dependencies": {
 		"axios": "^1.10.0"
 	}

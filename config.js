@@ -5,7 +5,7 @@ export const CONFIG = {
     
     // 模式1：固定数量任务配置
     FIXED_MODE: {
-        TOTAL_TASKS: 10,           // 总任务数量
+        TOTAL_TASKS: 60,           // 总任务数量
         MAX_RETRY_ATTEMPTS: 3,      // 最大重试次数
         RETRY_INTERVAL: 2000,       // 重试间隔（毫秒）
         POLL_INTERVAL: 1000,        // 状态轮询间隔（毫秒）

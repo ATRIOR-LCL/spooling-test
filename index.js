@@ -303,7 +303,6 @@ class PrintTaskTester {
     }
 }
 
-// 主函数
 async function main() {
     console.log('🚀 打印任务测试工具启动...');
     console.log(`📊 配置信息: 服务器地址 ${CONFIG.BASE_URL}`);
@@ -344,5 +343,4 @@ async function main() {
     }
 }
 
-// 运行主函数
 main();

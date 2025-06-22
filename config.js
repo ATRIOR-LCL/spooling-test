@@ -1,6 +1,6 @@
 // 配置文件
 export const CONFIG = {
-    // 服务器配置
+
     BASE_URL: 'http://localhost:8080',
     
     // 模式1：固定数量任务配置
